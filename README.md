@@ -17,7 +17,7 @@ Library for generating deterministic private keys from random words according to
 ```
 
 - add examples
-- maybe do mnemonic to seed
+- perhaps do mnemonic to seed
 
 ## Installation
 
